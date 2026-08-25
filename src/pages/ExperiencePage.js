@@ -14,7 +14,7 @@ const experiences = [
     subtitle: 'Full-time',
     company: 'LilyLanka',
     location: 'Colombo, Sri Lanka',
-    period: 'May 2026 – Present',
+    period: 'September 2025 – Present',
     type: 'Full-time',
     responsibilities: [
       'Developing a production-grade React Native cross-platform tourism management mobile application',
