@@ -3,7 +3,7 @@
 import React from 'react';
 import '../formatted.css'; // Import your CSS file for styling
 import ProfileImage from '../Assets/png/dp5.jpeg';
-import resumePDF from '../Assets/pdf/Janani-Withana-Resume.pdf';
+import resumePDF from '../Assets/pdf/Janani_Jayasuriya_Mobile_Resume.pdf';
 
 const AboutPage = () => {
   const openURL = () => {
