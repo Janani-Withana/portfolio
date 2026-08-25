@@ -18,13 +18,13 @@ import prj9Favicon from '../Assets/webp/ThilinaLogo.png';
 import prj10Favicon from '../Assets/webp/MovieTicketBookinglogo.png';
 import prj11Favicon from '../Assets/webp/Cognivex.png';
 
-
-
-
 import prj1Image from '../Assets/webp/LilyLankaFlyer.png';
 import prj2Image from '../Assets/webp/ChargeMapFlyer.jpg';
 import prj3Image from '../Assets/webp/SriGoviyaFlyer.png';
 import prj4Image from '../Assets/webp/SnapMindFlyer.png';
+import prj5Image from '../Assets/webp/POReceive.png';
+import prj6Image from '../Assets/webp/IbsonCafe.png';
+import prj7Image from '../Assets/webp/IbsonEcoRental.png';
 import prj8Image from '../Assets/webp/CosmoScopeBanner.png';
 import prj9Image from '../Assets/webp/ThilinaInstitute.png';
 import prj10Image from '../Assets/webp/MovieTicketBooking2.jpg';
@@ -93,7 +93,7 @@ const projects = [
     description: 'A cross-platform mobile app (iOS/Android) to streamline purchase orders received for warehouse operations. Features JWT authentication with auto-refresh tokens, real-time dashboard with status filters, search, and pagination. Includes items receiving workflow with quantity validation, image capture, and multi-business support.',
     // githubLink: '', // Add GitHub link if available
     //liveLink: '',
-    imageSrc: null,
+    imageSrc: prj5Image,
     category: 'Mobile',
     technologies: ['React Native', 'JavaScript', 'REST APIs', 'JWT', 'iOS', 'Android']
   },
@@ -105,7 +105,7 @@ const projects = [
     description: 'A multi-branch food ordering app with menu browsing, custom cake ordering, and table reservations. Integrated PayHere payment gateway with secure server-side verification, real-time order tracking using FCM push notifications, and offline cart persistence using AsyncStorage. Built with clean architecture and 120+ reusable components.',
     // githubLink: '', // Add GitHub link if available
     //liveLink: '',
-    imageSrc: null,
+    imageSrc: prj6Image,
     category: 'Mobile',
     technologies: ['React Native', 'JavaScript', 'Firebase', 'PayHere', 'REST APIs', 'FCM', 'AsyncStorage']
   },
@@ -117,7 +117,7 @@ const projects = [
     description: 'A cross-platform mobile application for an eco-friendly electric vehicle rental service with booking system supporting both iOS and Android. Features scalable navigation architecture using React Navigation, global state management using Zustand and Context API with light/dark theme support, and native features including deep linking and platform-specific date pickers.',
     // githubLink: '', // Add GitHub link if available
     //liveLink: '',
-    imageSrc: null,
+    imageSrc: prj7Image,
     category: 'Mobile',
     technologies: ['React Native', 'TypeScript', 'Zustand', 'REST APIs', 'React Navigation', 'iOS', 'Android']
   },

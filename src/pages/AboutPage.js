@@ -23,12 +23,12 @@ const AboutPage = () => {
         <div className="info-dp-section">
           <div className="about-info">
             <p tabIndex="0">
-              Hi! I'm <strong>Janani Withana</strong>, a <strong>Mobile Developer (React Native)</strong> with 2+ year of industry experience building scalable, production-ready mobile applications for both <strong>iOS and Android</strong> platforms. 
+              Hi! I'm <strong>Janani Withana</strong>, a <strong>Mobile Application Developer (React Native)</strong> with 2+ year of industry experience building scalable, production-ready mobile applications for both <strong>iOS and Android</strong> platforms. 
               I also practice <strong>UI/UX design</strong>—from user flows and wireframes to high-fidelity screens and <strong>interactive Figma prototypes</strong>—so interfaces stay coherent before and after they ship.
             </p>
             <br/>
             <p tabIndex="0">
-              Currently working as an <strong>Associate Software Engineer (Mobile – React Native)</strong> at WebAppClouds LLC, I specialize in cross-platform mobile development using <strong>React Native</strong>, JavaScript, and TypeScript. 
+              Currently working as a <strong>Mobile Application Developer</strong> at Lily Lanka PVT LTD, I specialize in cross-platform mobile development using <strong>React Native</strong>, JavaScript, and TypeScript. 
               I design and build reusable UI components, implement <strong>React Navigation</strong>, REST API integrations, and client-side state management. On the design side, I focus on <strong>clear information architecture</strong>, accessible patterns, and consistent visual systems that align with product goals.
             </p>
             <br/>

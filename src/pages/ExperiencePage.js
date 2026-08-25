@@ -10,11 +10,30 @@ import lilyLankaLogo from '../Assets/webp/LilyLanka.png';
 const experiences = [
   {
     id: 1,
+    title: 'React Native Developer',
+    subtitle: 'Full-time',
+    company: 'LilyLanka',
+    location: 'Colombo, Sri Lanka',
+    period: 'May 2026 – Present',
+    type: 'Full-time',
+    responsibilities: [
+      'Developing a production-grade React Native cross-platform tourism management mobile application',
+      'Build core application features including bookings, tour management, itinerary handling, and real-time location-based functionality',
+      'Implement reusable UI components and a scalable navigation architecture to support complex user flows',
+      'Integrate RESTful APIs for dynamic content, real-time updates, and backend-driven workflows',
+      'Translate UI/UX designs into responsive, accessible, and user-friendly mobile interfaces',
+      'Ensure clean, maintainable code, performance optimization, and architectural consistency'
+    ],
+    logoSrc: lilyLankaLogo,
+    gradient: 'purple'
+  },
+  {
+    id: 2,
     title: 'Associate Software Engineer',
     subtitle: 'Mobile – React Native',
     company: 'WebAppClouds LLC',
     location: 'Colombo, Sri Lanka',
-    period: 'July 2025 – Present',
+    period: 'July 2025 – April 2026',
     type: 'Full-time',
     responsibilities: [
       'Design, develop, and maintain cross-platform mobile applications using React Native',
@@ -27,7 +46,7 @@ const experiences = [
     gradient: 'blue'
   },
   {
-    id: 2,
+    id: 3,
     title: 'Android Developer',
     subtitle: 'Intern',
     company: 'WebAppClouds LLC',
@@ -43,26 +62,6 @@ const experiences = [
     logoSrc: wacLogo,
     gradient: 'pink'
   },
-  {
-    id: 3,
-    title: 'React Native Developer',
-    subtitle: 'Freelance',
-    company: 'LilyLanka',
-    location: 'Colombo, Sri Lanka',
-    period: 'October 2025 – Present',
-    type: 'Freelance',
-    responsibilities: [
-      'Developing a production-grade React Native cross-platform tourism management mobile application',
-      'Build core application features including bookings, tour management, itinerary handling, and real-time location-based functionality',
-      'Implement reusable UI components and a scalable navigation architecture to support complex user flows',
-      'Integrate RESTful APIs for dynamic content, real-time updates, and backend-driven workflows',
-      'Translate UI/UX designs into responsive, accessible, and user-friendly mobile interfaces',
-      'Ensure clean, maintainable code, performance optimization, and architectural consistency'
-    ],
-    logoSrc: lilyLankaLogo,
-    gradient: 'purple'
-  },
-
 ];
 
 const ExperiencePage = () => {
